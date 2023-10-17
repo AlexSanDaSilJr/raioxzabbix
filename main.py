@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 
-user = 'alex.santos'
-passw = 'wWytK5goh@'
+user = "alex.santos"
+passw = "wWytK5goh@"
 
 def definicao_username_senha():
     import customtkinter as CTk
